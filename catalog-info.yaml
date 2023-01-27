@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: gittest
+  annotations:
+    github.com/project-slug: lokesh5654/gittest
+spec:
+  type: other
+  lifecycle: unknown
+  owner: lokesh
